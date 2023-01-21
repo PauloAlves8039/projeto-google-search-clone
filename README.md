@@ -13,6 +13,10 @@ Página para simular a interface do Google Search, código fonte do projeto foi 
 
 `git clone https://github.com/PauloAlves8039/projeto-google-search-clone.git`
 
+## :camera: Screenshot
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/projeto-google-search-clone/blob/master/assets/images/screenshot.png" /> </p>
+
 ## Author
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
 
